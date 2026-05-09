@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+openai>=2.36.0
+python-dotenv
+requests
